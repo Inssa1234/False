@@ -1,0 +1,29 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;   
+}
+body{
+    width: 100vw !important;
+    color: #5a5a5b !important;
+    background-color: hsla(0, 0%, 93%, .84) !important;
+}header{
+    background: white;
+}.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}.btn{
+    background-color: rgb(160, 33, 33) !important;
+    color: white !important;
+    padding: 15px 50px !important;
+}#email,#psw{
+    padding: 25px !important;
+    
+}.form{
+    padding: 20px;
+}
+main{
+    width: 100% !important;
+}
